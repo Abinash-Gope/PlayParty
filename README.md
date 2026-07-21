@@ -10,11 +10,19 @@ A passionate Full-Stack Developer dedicated to building high-performance, real-t
 > *Watch YouTube videos with friends in perfectly synchronized rooms, chat in real-time, and manage shared video queues.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abinash-Gope/PlayParty/main/public/demo-banner.png" alt="PlayParty Demo Walkthrough" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
-  
   <br />
+  
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+  [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-  [🎮 Live Demo](https://playparty.vercel.app) • [📄 Project Showcase & Docs](https://github.com/Abinash-Gope/PlayParty)
+  <br /><br />
+
+  [🎮 Launch Live Application](https://playparty.vercel.app) • [📄 Project Showcase & Source](https://github.com/Abinash-Gope/PlayParty)
+
+  <br />
 </div>
 
 ### 🛠️ Tech Stack & Architecture
@@ -106,9 +114,11 @@ watch-party-hub/
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Profile Summary
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinash-Gope&show_icons=true&theme=dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=d4d4d8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Gope&layout=compact&theme=dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=d4d4d8" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Abinash-Gope">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abinash-Gope&show_icons=true&theme=dark" alt="Abinash's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Gope&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+  </a>
 </div>
